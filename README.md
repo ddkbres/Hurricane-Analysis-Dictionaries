@@ -1,3 +1,3 @@
 # Hurricane-Analysis-Dictionaries-
 
-Codeacademy project
+CodeAcademy project
